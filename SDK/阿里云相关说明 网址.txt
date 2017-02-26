@@ -1,6 +1,8 @@
 
 
 
+OSS外网域名: practicefactory-oss.oss-cn-shenzhen.aliyuncs.com	OSS内网域名:practicefactory-oss.oss-cn-shenzhen-internal.aliyuncs.com
+
 RAM管理中心
 https://ram.console.aliyun.com/?spm=5176.2020520152.1001.d604.YCGv0d#/user/detail/testram111/info
 
